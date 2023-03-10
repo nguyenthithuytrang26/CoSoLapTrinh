@@ -1,0 +1,7 @@
+print('Youwillbe'+str(int('18')+1)+'inayear.')
+print('Youwillbe'+str(int('4')+1)+'inayear.')
+print('Youwillbe'+str(4+1)+'inayear.')
+print('Youwillbe'+str(5)+'inayear.')
+print('Youwillbe'+'5'+'inayear.')
+print('Youwillbe5'+'inayear.')
+print('Youwillbe5inayear.')
